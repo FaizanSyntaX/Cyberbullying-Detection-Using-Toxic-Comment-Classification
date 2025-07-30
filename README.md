@@ -1,5 +1,5 @@
 # Cyberbullying-Detection-Using-Toxic-Comment-Classification
-# Data used is Jigsaw toxic comment classification
+## Data used is Jigsaw toxic comment classification
 Integrated this model into an instagram clone
 
 
